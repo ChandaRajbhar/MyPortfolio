@@ -192,7 +192,7 @@ p {
 
 .portfolio-sec {
     height: 110vh;
-    background-color: burlywood;
+    background-color: var(--secondary-shade);
 }
 
 .portfolio>h3 {
